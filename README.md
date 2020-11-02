@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm Mathieu. I'm a...
 
 <!--
 **m-decoster/m-decoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Mathieu. I'm a...
+
 
 - 🎓 PhD student at Ghent University (sign language recognition)
 - 📔 Teaching assistant for the Machine Learning course
@@ -28,4 +28,4 @@ Some of my projects on here include:
 
 I have a 💬 [blog](https://m-decoster.github.io/) and a 💻 [website](https://users.ugent.be/~mcdcoste/).
 
-In my free time, I like 📷 photography and 📻 amateur digital composition. Outdoors, I love walking my 🐕 golden retriever.
+In my free time, I like 📷 photography and 📻 amateur digital music composition. I also love walking my 🐕 golden retriever.
