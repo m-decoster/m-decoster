@@ -24,6 +24,6 @@ Some of my projects on here include:
 
 - RsGenetic, a library for genetic algorithms in Rust
 - glExamples, a collection of code snippets in C++ illustrating simple tasks in OpenGL 3.3
-- Rust-on-Web, an example of how to compile Rust to WebAssembly
+- projects related to my research
 
-I have a 💬 [website](https://users.ugent.be/~mcdcoste/).
+For more information on my research, check out my 💬 [website](https://users.ugent.be/~mcdcoste/).
