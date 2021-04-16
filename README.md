@@ -27,5 +27,3 @@ Some of my projects on here include:
 - Rust-on-Web, an example of how to compile Rust to WebAssembly
 
 I have a 💬 [website](https://users.ugent.be/~mcdcoste/).
-
-In my free time, I like 📷 photography and 📻 amateur digital music composition. I also love walking my 🐕 golden retriever.
